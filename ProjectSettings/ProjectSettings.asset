@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: e5ad205be8e5743e39d9e5ad1e7230a7
+  productGUID: cddeef2d4c98c446e86eba6bda4a1b33
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: 2D Project
+  companyName: PG
+  productName: Pachinko
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -585,7 +585,7 @@ PlayerSettings:
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
-  webGLDecompressionFallback: 0
+  webGLDecompressionFallback: 1
   webGLInitialMemorySize: 32
   webGLMaximumMemorySize: 2048
   webGLMemoryGrowthMode: 2
@@ -625,14 +625,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: 2D Project
+  metroPackageName: Pachinko
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: 2D Project
+  metroApplicationDescription: Pachinko
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -700,10 +700,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 868e9d91-aef0-4ef7-897d-332629e9ad5f
+  cloudProjectId: 00ba8015-1852-474f-91ff-c60d463bf8c6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 2D Project
+  projectName: Pachinko
   organizationId: preetigoel
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
